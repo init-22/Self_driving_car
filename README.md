@@ -14,12 +14,4 @@ In order to train the model follow the following steps.
 9) Now lets test the model by running auto_drive.py file. do not forget to pass h5 file as a command line argument for eg. python auto_drive.py model-007.h5
 
 
-I highly recommend watching Siraj Raval's video on it: https://www.youtube.com/watch?v=EaY5QiZwSP4
-
-
-Get in touch with me if you need any help working on this project.
-
-
-Isaac,
-
-https://www.linkedin.com/in/isaac-patole/
+Referece video on it: https://www.youtube.com/watch?v=EaY5QiZwSP4
